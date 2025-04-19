@@ -14,8 +14,8 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  name: Bilateral-AI
-  url: https://www.bilateral-ai.net/home
+  - name: Bilateral-AI
+    url: https://www.bilateral-ai.net/home
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Data Curation by using LLMs and Neurosymbolic solutions.
@@ -40,7 +40,7 @@ social:
     link: https://www.linkedin.com/in/davide-di-stefano-86a9a7234/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/divadde
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
