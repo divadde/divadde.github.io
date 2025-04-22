@@ -25,7 +25,7 @@ experience:
   - title: MSc Computer Engineering - AI & Machine Learning
     company: University of Calabria
     company_url: ''
-    company_logo: 'content/about/logos/Universita-della-Calabria-Logo-2.png'
+    company_logo: 'assets/media/icons/brands/Universita-della-Calabria-Logo-2.png'
     location: Italy
     date_start: '2022-10-01'
     date_end: '2024-09-17'
@@ -35,7 +35,7 @@ experience:
   - title: Bachelor's degree Computer Engineering 
     company: University of Calabria
     company_url: ''
-    company_logo: 'content/about/logos/Universita-della-Calabria-Logo-2.png'
+    company_logo: 'assets/media/icons/brands/Universita-della-Calabria-Logo-2.png'
     location: Italy
     date_start: '2019-10-01'
     date_end: '2022-09-15'
