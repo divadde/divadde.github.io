@@ -6,7 +6,7 @@ title: Davide Di Stefano
 superuser: true
 
 # Role/position
-role: PhD Student at TU Wien for Bilateral-AI project.
+role: PhD Student at TU Wien for Bilateral-AI research project
 
 # Status emoji
 status:
