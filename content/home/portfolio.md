@@ -13,12 +13,10 @@ weight: 20
 title: ''
 subtitle: ''
 
-  # Add when you will have publications:
 
-
-#content:
+content:
   # Page type to display. E.g. project.
-#  page_type: project
+  page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
 #  filter_default: 0
@@ -29,21 +27,25 @@ subtitle: ''
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   
-  #filter_button:
-  #  - name: All
-  #    tag: '*'
-  #  - name: Machine Learning
-  #    tag: ML
-  #  - name: Computer Vision
-  #    tag: CV
-  #  - name: NLP
-  #    tag: NLP
+  filter_button:
+    - name: All
+      tag: '*'
+    - name: Machine Learning
+      tag: ML
+    - name: Computer Vision
+      tag: CV
+    - name: NLP
+      tag: NLP
+    - name: BigData
+      tag: BigData
+    - name: Artificial Intelligence
+      tag: AI
 
-#design:
-#  columns: '1'
-#  view: masonry
-#  flip_alt_rows: true
-#  background: {}
-#  spacing: {padding: [0, 0, 0, 0]}
+design:
+  columns: '1'
+  view: masonry
+  flip_alt_rows: true
+  background: {}
+  spacing: {padding: [0, 0, 0, 0]}
 
 ---
