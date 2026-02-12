@@ -6,23 +6,26 @@ title: Davide Di Stefano
 superuser: true
 
 # Role/position
-role: PhD Student at TU Wien for Bilateral-AI research project
+role: PhD Student at TU Wien for Bilateral-AI Research Project & Research Scientist at Unlimidata
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Organizations/Affiliations
 organizations:
   - name: Bilateral-AI
     url: https://www.bilateral-ai.net/home
+  - name: Unlimidata
+    url: https://www.unlimidata.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Data Curation by using LLMs and Neurosymbolic solutions.
+bio: Reshaping data reliability by researching and building AI-driven tools for automated data curation and quality assurance.
 
 interests:
-  - Artificial Intelligence
-  - Neurosymbolic AI 
+  - Agentic AI
+  - Neurosymbolic AI
+  - Data Reliability
 
 education:
   courses:
@@ -54,6 +57,6 @@ social:
 
 Davide Di Stefano is a PhD student at TU Wien in the field of artificial intelligence. After completing his studies at the University of Calabria in computer engineering specializing in AI & Machine Learning, he joined the innovative Austrian research project as a PhD student: Bilateral-AI. The goal of the project is to develop solutions and research in the context of neurosymbolic artificial intelligence.
 
-Research interests are particularly focused on the study of Large Language Models in the context of Data Curation. Retrieval-Augmented Generation solutions, agentic patterns, and integration of symbolic systems with LLMs are the topics particularly studied.
+Research interests are particularly focused on the study of Large Language Models & Agentic AI in the context of Data Curation and Quality. 
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.

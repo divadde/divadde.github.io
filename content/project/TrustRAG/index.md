@@ -25,7 +25,7 @@ The core innovation lies in the **Multi-Aspect Agent-Based** approach. The syste
 2.  **Retrieval Agent:** Fetches relevant documents from the knowledge base.
 3.  **Assessment Agents (Trust & Fairness):** These critical modules evaluate the retrieved context and generated drafts against specific metrics (e.g., factuality, non-toxicity, fairness) *before* the final response is delivered.
 
-![Architecture Diagram](master workflow.png "Figure 1: High-level Architecture of the Multi-Aspect Agent-Based RAG System.")
+![Architecture Diagram](master_workflow.png "Figure 1: High-level Architecture of the Multi-Aspect Agent-Based RAG System.")
 
 ### Process Flow
 
@@ -36,7 +36,7 @@ The workflow follows an iterative refinement loop. As shown in the diagram below
 * **Step 4:** **Fairness Evaluation**: Detecting potential biases in the generated answer.
 * **Step 5:** Response Synthesis or Regeneration (if checks fail).
 
-![Process Workflow](aspect agent workflow.png "Figure 2: Sequence flow describing the interaction between the Orchestrator and Assessment Agents.")
+![Process Workflow](aspect_agent_workflow.png "Figure 2: Sequence flow describing the interaction between the Orchestrator and Assessment Agents.")
 
 ### Key Results
 The experimental results demonstrated that integrating these active monitoring agents significantly increases the reliability of the system compared to naive RAG implementations, ensuring that the final output aligns with defined ethical and factual standards.
