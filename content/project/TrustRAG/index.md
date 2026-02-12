@@ -7,7 +7,7 @@ tags:
   - Agentic AI
   - Trustworthy AI
 date: 2024-09-17
-external_link: https://github.com/divadde/trustworthiness_rag
+url_code: https://github.com/divadde/trustworthiness_rag
 image:
   caption: 'System Architecture Workflow'
   focal_point: Smart

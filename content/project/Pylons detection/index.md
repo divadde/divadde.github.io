@@ -5,7 +5,7 @@ tags:
   - CV
   - Deep Learning
 date: 2024-01-01
-external_link: https://github.com/divadde/computer_vision_project
+url_code: https://github.com/divadde/computer_vision_project
 ---
 
 This Computer Vision project addresses the problem of automating infrastructure inspection by detecting electricity pylons from images. 

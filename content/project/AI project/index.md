@@ -5,7 +5,7 @@ tags:
   - AI
   - Symbolic AI
 date: 2023-09-01
-external_link: https://github.com/NicolaGabriele/progettoIntelligenzaArtificiale
+url_code: https://github.com/NicolaGabriele/progettoIntelligenzaArtificiale
 ---
 
 This project explores **Symbolic Artificial Intelligence** through the implementation of automated planning systems. 

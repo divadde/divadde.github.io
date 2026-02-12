@@ -6,7 +6,7 @@ tags:
   - ML
   - NLP
 date: 2023-01-01
-external_link: https://github.com/Dottoris/progettoBigData_Spark
+url_code: https://github.com/Dottoris/progettoBigData_Spark
 ---
 
 This project focuses on the analysis of a large dataset of hotel reviews using **Apache Spark**. The goal was to build a scalable pipeline capable of processing massive amounts of unstructured text data to perform **Sentiment Analysis**.

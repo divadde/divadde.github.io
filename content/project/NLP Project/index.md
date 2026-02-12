@@ -6,7 +6,7 @@ tags:
   - NLP
   - Multimodal AI
 date: 2024-01-01
-external_link: https://github.com/NicolaGabriele/Medical_images_and_captions_retrieval
+url_code: https://github.com/NicolaGabriele/Medical_images_and_captions_retrieval
 ---
 
 This project implements a **Multimodal Information Retrieval** system specifically tailored for the medical domain. The core objective is to bridge the gap between visual data (scans, X-rays) and textual reports.
