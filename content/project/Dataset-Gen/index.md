@@ -113,7 +113,7 @@ SynthData Architect leverages **LangGraph** to orchestrate a stateful, cyclical 
 
 ### The Workflow
 
-![Multi-Agent Workflow](workflow.jpg)
+![Multi-Agent Workflow](workflow.png)
 
 ### Components
 
