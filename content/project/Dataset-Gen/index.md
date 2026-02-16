@@ -74,7 +74,6 @@ The main entry point for the library. It handles the orchestration of the AI age
 ```python
 def generate_synthetic_dataset(
     num_rows: int, 
-    schema: Union[str,List[str]], 
     rules: List[Dict], 
     output_path: str = "synthetic_dataset.csv",
     max_retries: int = 3
