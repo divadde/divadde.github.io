@@ -9,6 +9,9 @@ tags:
 date: 2026-02-16 # Data approssimativa del paper o della submission
 url_code: https://github.com/divadde/GaV
 # url_pdf: uploads/Revised_GaV.pdf # De-commenta se vuoi rendere scaricabile il PDF
+image:
+  caption: 'GaV Multi-Agent Architecture'
+  focal_point: Center  # Cambiato da 'Smart' a 'Center' per centrare l'immagine
 ---
 
 # Aspect-Based Column Understanding
