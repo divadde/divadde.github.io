@@ -1,5 +1,5 @@
 ---
-title: 'GaV: Guess and Verification'
+title: 'GaV: Guess and Verification of Column Semantics'
 summary: 'A multi-agent framework for automated Column Semantics Understanding (ABCU) that employs an iterative hypothesis generation-and-verification paradigm grounded in data evidence.'
 tags:
   - Multi-Agent Systems
@@ -9,9 +9,6 @@ tags:
 date: 2026-02-23 # Data approssimativa del paper o della submission
 url_code: https://github.com/divadde/GaV
 # url_pdf: uploads/Revised_GaV.pdf # De-commenta se vuoi rendere scaricabile il PDF
-image:
-  caption: 'GaV Multi-Agent Architecture'
-  focal_point: Smart
 ---
 
 # Aspect-Based Column Understanding
