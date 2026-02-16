@@ -113,26 +113,7 @@ SynthData Architect leverages **LangGraph** to orchestrate a stateful, cyclical 
 
 ### The Workflow
 
-```mermaid
-graph TD
-    Start([User Input]) --> Gen[🤖 Code Generator]
-    Gen --> Exec[⚙️ Code Executor]
-    
-    Exec -- Runtime Error --> CheckRetry{Max Retries?}
-    Exec -- Success --> Valid[🕵️ Hallucination Checker]
-    
-    Valid -- Logic/Assert Error --> CheckRetry
-    Valid -- Validation OK --> Save[💾 File Saver]
-    
-    CheckRetry -- No --> Gen
-    CheckRetry -- Yes --> Fail([❌ Failure])
-    
-    Save --> End([✅ Success])
-    
-    style Gen fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style Exec fill:#fff3e0,stroke:#e65100,stroke-width:2px
-    style Valid fill:#e8f5e9,stroke:#1b5e20,stroke-width:2px
-```
+![Multi-Agent Workflow](workflow.jpg)
 
 ### Components
 
